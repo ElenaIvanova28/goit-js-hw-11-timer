@@ -53,10 +53,10 @@ class CountdownTimer {
   
 const timer = new CountdownTimer({
     selector: '#timer-1',
-    targetDate: new Date('May 25, 2022 19:39'),
+    targetDate: new Date('August 25, 2021 19:39'),
 });
 
 const timer2 = new CountdownTimer({
     selector: '#timer-2',
-    targetDate: new Date('May 25, 2023 19:39'),
+    targetDate: new Date('September 25, 2021 19:39'),
 });
